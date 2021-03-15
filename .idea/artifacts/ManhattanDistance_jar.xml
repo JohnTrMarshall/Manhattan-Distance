@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ManhattanDistance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ManhattanDistance_jar</output-path>
+    <root id="archive" name="ManhattanDistance.jar">
+      <element id="module-output" name="ManhattanDistance" />
+    </root>
+  </artifact>
+</component>
